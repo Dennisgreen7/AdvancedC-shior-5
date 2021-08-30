@@ -53,11 +53,11 @@ namespace SHior5_HM
 
             int res = 0;
 
-            for (int i = 1; i < 8; i+=2)
+            for (int i = 1; i < 8; i += 2)
             {
-                    res += tz[i - 1]+(tz[i] / 10) + (tz[i] % 10);
+                res += int.Parse(tz[i - 1].ToString()) + ((int.Parse(tz[i].ToString()) * 2) / 10) + ((int.Parse(tz[i].ToString()) * 2) % 10);
             }
-            if ((res + tz[8]) % 10 == 0)
+            if ((res + int.Parse(tz[8].ToString())) % 10 == 0)
             {
                 return true;
             }
