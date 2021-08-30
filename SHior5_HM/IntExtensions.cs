@@ -19,9 +19,6 @@ namespace SHior5_HM
             if (number == 0)
                 return "zero";
 
-            if (number < 0)
-                return "minus " + NumberToWords(Math.Abs(number));
-
             string words = "";
 
             if (number > 0)
