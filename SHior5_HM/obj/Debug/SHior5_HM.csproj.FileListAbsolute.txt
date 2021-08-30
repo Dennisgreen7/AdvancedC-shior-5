@@ -1,0 +1,7 @@
+C:\Dot.Net\C# Advanced\Shior5\HM\SHior5_HM\bin\Debug\SHior5_HM.exe.config
+C:\Dot.Net\C# Advanced\Shior5\HM\SHior5_HM\bin\Debug\SHior5_HM.exe
+C:\Dot.Net\C# Advanced\Shior5\HM\SHior5_HM\bin\Debug\SHior5_HM.pdb
+C:\Dot.Net\C# Advanced\Shior5\HM\SHior5_HM\obj\Debug\SHior5_HM.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Shior5\HM\SHior5_HM\obj\Debug\SHior5_HM.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Shior5\HM\SHior5_HM\obj\Debug\SHior5_HM.exe
+C:\Dot.Net\C# Advanced\Shior5\HM\SHior5_HM\obj\Debug\SHior5_HM.pdb
